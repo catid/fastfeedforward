@@ -1,3 +1,7 @@
+This is forked off the upstream FFF repo, to demonstrate their performance against a baseline, since the authors forgot to compare their results to anything.
+
+Basically: FFF is bunk, and the authors don't want to admit it.
+
 # fastfeedforward
 A repository for fast feedforward (FFF) networks.
 Fast feedforward layers can be used in place of vanilla feedforward and mixture-of-expert layers, offering inference time that grows only logarithmically in the training width of the layer.
